@@ -17,8 +17,8 @@ $ $ gcloud container clusters create helloworld --zone asia-northeast1-c \
   --num-nodes 2
 ```
 ## クラスタの認証
-
-```$ gcloud container clusters get-credentials helloworld --zone asia-northeast1-c
+```
+$ gcloud container clusters get-credentials helloworld --zone asia-northeast1-c
 ```
 
 ## デプロイ
